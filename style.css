@@ -1,0 +1,73 @@
+h1 {
+    color: blue;
+    font-family: Tahoma, 'Segoe UI', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+h2 {
+    color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+#firstonlist {
+    color:rgb(138, 43, 226);
+    font-size: 30px;
+    
+    
+}
+
+#secondonlist {
+    color:rgb(148, 67, 223);
+    font-size: 28px;
+    
+}
+
+#thirdonlist {
+    color:rgb(170, 115, 221);
+    font-size: 26px;
+    
+}
+
+#fourthonlist {
+    color:rgb(188, 154, 220);
+    font-size: 24px;
+    
+}
+
+#fifthonlist {
+    color:rgb(189, 167, 217);
+    font-size: 20px;
+    
+}
+
+#likelist {
+    color:rgb(138, 43, 226);
+    font-size: 40px;
+    list-style-position: inside;
+
+}
+
+#friendlist {
+    color:rgb(138, 43, 226);
+    font-size: 30px;
+    list-style-type: circle;
+    list-style-position: inside;
+}
+
+footer {
+    padding-top: 2000px;
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 50%;
+    text-align: center;
+}
+
+img:hover {
+    -webkit-transform: scale(3,3);
+}
